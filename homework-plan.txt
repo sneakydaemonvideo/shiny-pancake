@@ -1,4 +1,5 @@
 step 1) clone repo
 step 2) edit the readme to correct the typo
 step 3) set up my git credentials correctly
+step 3.a) don't forget to uncomment the lines!!
 step 4) try to create a new branch and add this file to it, then push my work to the remote repository
